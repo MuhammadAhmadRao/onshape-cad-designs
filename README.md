@@ -19,7 +19,7 @@ Each design includes a render, the exported **STEP** and **STL** files, and note
 | [LEGO Brick](designs/lego-brick) | <img src="designs/lego-brick/images/render.png" width="160"> | Sketching, extrude, patterns | [STEP](designs/lego-brick/models/lego-brick.step) · [STL](designs/lego-brick/models/lego-brick.stl) |
 | [Cup](designs/cup) | <img src="designs/cup/images/render.png" width="160"> | Revolve, shell, fillet | [STEP](designs/cup/models/cup.step) · [STL](designs/cup/models/cup.stl) |
 | [Texas Map](designs/texas-map) | <img src="designs/texas-map/images/render.png" width="160"> | Imported outline, extrude, text | [STEP](designs/texas-map/models/texas-map.step) · [STL](designs/texas-map/models/texas-map.stl) |
-| [Rolling Dice](designs/rolling-dice) | <img src="designs/rolling-dice/images/render.png" width="160"> | Cube modeling, hole patterns, fillets | [STEP](designs/rolling-dice/models/rolling-dice.step) · [STL](designs/rolling-dice/models/rolling-dice.stl) |
+| [Dish Tray](designs/dish-tray) | <img src="designs/dish-tray/images/render.png" width="160"> | Sketching, extrude, fillet, shell | [STEP](designs/dish-tray/models/dish-tray.step) · [STL](designs/dish-tray/models/dish-tray.stl) |
 
 Coursework and early practice models live in [`coursework/`](coursework).
 
