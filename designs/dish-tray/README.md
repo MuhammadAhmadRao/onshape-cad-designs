@@ -14,8 +14,6 @@ A set of two shallow trays modeled in Onshape: a rounded-rectangle (stadium-shap
 
 ## Design notes
 - Units: millimeters
-- Overall size: _X × Y × Z mm_ (fill in)
-- Wall thickness: _fill in_
 - Design intent: small desk or kitchen trays for holding keys, coins or small items
 
 ## What I learned
@@ -24,6 +22,6 @@ A set of two shallow trays modeled in Onshape: a rounded-rectangle (stadium-shap
 - Keeping each part as its own sketch and feature chain makes problems easier to find and fix
 
 ## Files
-- 🔗 [Open in Onshape](PASTE_PUBLIC_ONSHAPE_LINK_HERE)
+- 🔗 [Open in Onshape](https://cad.onshape.com/documents/a28f954adad74a9e78ea8015/w/127ce4fd3db8e47d51c99434/e/3444faac008a3d02244f7165?renderMode=0&uiState=6ac05c55318fa855b9deba9a)
 - 📐 [STEP](models/dish-tray.step) (editable in any CAD tool)
 - 🖨️ [STL](models/dish-tray.stl) (3D-print ready, previews in the browser)

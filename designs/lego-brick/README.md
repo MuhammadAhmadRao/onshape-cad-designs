@@ -13,14 +13,12 @@ A parametric LEGO-style brick with studs on top and a hollow underside, modeled 
 
 ## Design notes
 - Units: millimeters
-- Overall size: _X × Y × Z mm_ (fill in)
-- Design intent: _what the part is for / what you were aiming for_ (fill in)
 
 ## What I learned
 - Keeping dimensions parametric so the brick can be resized
 - Using patterns instead of redrawing repeated features
 
 ## Files
-- 🔗 [Open in Onshape](PASTE_PUBLIC_ONSHAPE_LINK_HERE)
+- 🔗 [Open in Onshape](https://cad.onshape.com/documents/47b649b07a7d8372db92f21b/w/2f7838db0e2fa1a21f20487e/e/31bcd28dbb46057f839e4c0d?renderMode=0&uiState=6ac05e1aa830cf066b6431a2)
 - 📐 [STEP](models/lego-brick.step) (editable in any CAD tool)
 - 🖨️ [STL](models/lego-brick.stl) (3D-print ready, previews in the browser)

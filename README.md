@@ -8,10 +8,6 @@ Each design includes a render, the exported **STEP** and **STL** files, and note
 
 ---
 
-## Preview
-
-![Preview grid](assets/preview-grid.png)
-
 ## Designs
 
 | Design | Preview | Techniques practiced | Files |
