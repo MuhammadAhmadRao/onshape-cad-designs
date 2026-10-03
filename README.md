@@ -29,7 +29,6 @@ Coursework and early practice models live in [`coursework/`](coursework).
 
 ```
 designs/        finished models (one folder each: images/, models/, README.md)
-coursework/     assignments and practice work
 assets/         images used in this README
 ```
 
