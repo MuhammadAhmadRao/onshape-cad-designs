@@ -4,6 +4,7 @@ A collection of 3D CAD models I designed in [Onshape](https://www.onshape.com/) 
 Each design includes a render, the exported **STEP** and **STL** files, and notes on the techniques I used.
 
 **Author:** Muhammad Ahmad Rao · [LinkedIn](https://linkedin.com/in/muhammadahmadrao-)
+
 **Tools:** Onshape (sketching, part modeling, Render Studio)
 
 ---
@@ -17,7 +18,6 @@ Each design includes a render, the exported **STEP** and **STL** files, and note
 | [Texas Map](designs/texas-map) | <img src="designs/texas-map/images/render.png" width="160"> | Imported outline, extrude, text | [STEP](designs/texas-map/models/texas-map.step) · [STL](designs/texas-map/models/texas-map.stl) |
 | [Dish Tray](designs/dish-tray) | <img src="designs/dish-tray/images/render.png" width="160"> | Sketching, extrude, fillet, shell | [STEP](designs/dish-tray/models/dish-tray.step) · [STL](designs/dish-tray/models/dish-tray.stl) |
 
-Coursework and early practice models live in [`coursework/`](coursework).
 
 ## Viewing the models
 
